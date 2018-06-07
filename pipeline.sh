@@ -3,6 +3,8 @@
 
 #construct network from expression Matrix
 
+#or substitute input for infomap with a null modell generated network
+
 ##generate condor job
 python parallel_aracne/genera_condor.py \
 	--aracne_tgz ARACNE.src.tar.gz \
