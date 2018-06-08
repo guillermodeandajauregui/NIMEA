@@ -1,3 +1,5 @@
+#Sergio Antonio Alcala Corona
+
 # Primero hay que cargar los archivos csv a una tabla de R con su encabezado y todo
 
 args <- commandArgs(trailingOnly = TRUE);
