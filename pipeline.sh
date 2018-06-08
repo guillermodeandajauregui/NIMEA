@@ -19,7 +19,7 @@ condor_submit run_id.condor
 
 #convert to SIF format
 
-adj2sif.sh X.adj X.sif
+adj2sif.sh X.adj X.sif 10000
 
 #prune network to a given number of edges
 RScript filter_net.R X.sif X.filter.sif
