@@ -1,3 +1,5 @@
+#Guillermo de Anda-Jáuregui 
+
 #librerias que necesitas 
 library("org.Hs.eg.db")
 library("KEGG.db")
