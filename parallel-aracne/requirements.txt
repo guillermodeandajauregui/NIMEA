@@ -1,2 +1,1 @@
-#Jinja2==2.7.3 DO NOT USE CVE-2016-10745  
 Jinja2>=2.8.1
